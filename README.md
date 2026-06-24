@@ -110,3 +110,8 @@ Di sana ada params, metrik (`test_roc_auc`, `test_pr_auc`, ...), dan artefak
 - Feature selection berbasis importance / null-importance.
 - Ensemble LightGBM + DL (rata-rata probabilitas).
 - Kalibrasi probabilitas (Platt / isotonic) bila output butuh probabilitas terkalibrasi.
+
+
+Alif Gunawan Yudiansyah
+1103220221
+TK-46-Gab
