@@ -20,7 +20,7 @@ fraud-detection/
 ├── train_dl.py           # >> pipeline DL: MLP + embeddings + Optuna + MLflow
 ├── generate_synthetic.py # data sintetik utk uji pipeline tanpa download
 ├── requirements.txt
-└── data/                 # taruh train_transaction.csv & train_identity.csv di sini
+└── data/                 # taruh train_transaction.csv di sini
 ```
 
 ## 2. Setup (Python 3.11.9)
